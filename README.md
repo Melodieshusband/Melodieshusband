@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Meloten 👋
+# Hi, I'm Meloten
 
 **Independent developer · Lua/Luau tooling · Reverse engineering · Language design**
 
@@ -58,12 +58,16 @@ Converts GTA San Andreas PC mods (`.dff` and `.txd`) into PS2-native RenderWare 
 
 ## GitHub stats
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Melodieshusband&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=prs,issues,contribs&custom_title=Meloten%27s%20Stats" alt="Meloten's GitHub stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Melodieshusband&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=Melodieshusband&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=prs,issues,contribs&custom_title=Meloten%27s%20Stats&card_width=400" alt="Meloten's GitHub stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Melodieshusband&layout=compact&theme=tokyonight&hide_border=true&langs_count=3&hide=makefile,batchfile,shell&card_width=400" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
