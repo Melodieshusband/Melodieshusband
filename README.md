@@ -2,6 +2,8 @@
 
 # Hi, I'm Meloten
 
+*aka Melodie's only husband 💍*
+
 **Independent developer · Lua/Luau tooling · Reverse engineering · Language design**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
